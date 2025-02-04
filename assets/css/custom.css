@@ -31,7 +31,4 @@ ul {
     list-style-type: none;
     padding: 0;
 }
-.tableau{
-    display: flex;
-    flex-direction: row;
-}
+
