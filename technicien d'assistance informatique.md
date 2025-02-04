@@ -4,15 +4,9 @@ order: 4
 in_menu: true
 ---
 <img src="photo.jpg" alt="Photo de moi" width="150">
-
         <h1>HAMA Fouad</h1>
         <p>TECHNICIEN D'ASSISTANCE INFORMATIQUE</p>
-
-
-    <section id="experience">
         <h2>Compétences</h2>
-        <ul>
-            <li>
                 <h3>Montage et maintenance matériel, système, logiciel et réseau</h3>
                     <p>OS, Windows, Mac, Linux</p>
                     <h3>- Bonnes connaissances windows server</h3> 
@@ -25,26 +19,10 @@ in_menu: true
                     <h3> - Logiciels</h3>
                     <p>Utilisation d'outils internet courants (workspace,firefox...), bureautique (pack office,
                         openoffice...)</p>
-            
-            </li>
-            <!-- Ajouter d'autres expériences -->
-        </ul>
-    </section>
-
-    <section id="formation">
         <h2>Formation</h2>
-        <ul>
-            <li>
                 <h3>T.A.I TECHNICIEN D'ASSISTANCE INFORMATIQUE ( Titre professionnel RNCP)</h3>
                 <p>CCI NORD ISÈRE VILLEFONTAINE De décembre 2024 à septembre 2025</p>
-            </li>
-            <!-- Ajouter d'autres formations -->
-        </ul>
-    </section>
-
-    <section id="compétences">
         <h2>Expérience Professionnelle</h2>
-        <ul>
             <li>Cariste caces 5 logistique</li>
             <li>Gxo logistique Saint-Quentin-Fallavier De 2022 à 2024</li>
             <li>Cariste caces 5 logistique</li>
@@ -55,9 +33,4 @@ in_menu: true
                 Windows server (Active directory, DNS, DHCP, gestion de ressources partageés, GPO)</li>
                 <li>Aide électricien auto
                     Garage auto Algérie De 2008 à 2010</li>
-            <!-- Ajouter d'autres compétences -->
-        </ul>
-    </section>
-
-    <footer>
         <p>Contactez-moi : <a href="CV_2025-01-28_Fouad_HAMA-4.pdf ">fouadhama3@gmail.com</a></p> 
