@@ -4,10 +4,10 @@ order: 4
 in_menu: true
 ---
 <img src="photo.jpg" alt="Photo de moi" width="150">
-        <h1>HAMA Fouad</h1>
-        <p>TECHNICIEN D'ASSISTANCE INFORMATIQUE</p>
-        <h2>Compétences</h2>
-                <h3>Montage et maintenance matériel, système, logiciel et réseau</h3>
+<h1>HAMA Fouad</h1>
+<p>TECHNICIEN D'ASSISTANCE INFORMATIQUE</p>
+<h2>Compétences</h2>
+<h3>Montage et maintenance matériel, système, logiciel et réseau</h3>
                     <p>OS, Windows, Mac, Linux</p>
                     <h3>- Bonnes connaissances windows server</h3> 
                     <p>Active directory, DNS, DHCP, création d'utilisateurs et de groupe, gestion des ressourcespartagées, GPO...<p>  
