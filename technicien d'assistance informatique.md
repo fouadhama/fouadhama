@@ -22,8 +22,6 @@ in_menu: true
                         openoffice...)</p>
     <section id="formation">
         <h2>Formation</h2>
-        <ul>
-            <li>
                 <h3>T.A.I TECHNICIEN D'ASSISTANCE INFORMATIQUE ( Titre professionnel RNCP)</h3>
                 <p>CCI NORD ISÈRE VILLEFONTAINE De décembre 2024 à septembre 2025</p>
         <h2>Expérience Professionnelle</h2>
@@ -37,6 +35,4 @@ in_menu: true
                 Windows server (Active directory, DNS, DHCP, gestion de ressources partageés, GPO)</li>
                 <li>Aide électricien auto
                     Garage auto Algérie De 2008 à 2010</li>
-        <p>Contactez-moi : <a href="CV_2025-01-28_Fouad_HAMA-4.pdf ">fouadhama3@gmail.com</a></p>
-    </footer>
-</body> 
+        <p>Contactez-moi : <a href="CV_2025-01-28_Fouad_HAMA-4.pdf ">fouadhama3@gmail.com</a></p> 
