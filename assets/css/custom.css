@@ -13,14 +13,12 @@ section {
     border-radius: 8px;
 }
 
-ul {
+ {
     list-style-type: none;
     padding: 0;
 }
 
-li {
-    margin: 10px 0;
-}
+
 
 footer {
     text-align: center;
