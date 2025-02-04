@@ -1,5 +1,5 @@
 ---
-title: "TECHNICIEN D'ASSISTANCE INFORMATIQUE"
+title: "CV"
 order: 4
 in_menu: true
 ---
