@@ -3,7 +3,7 @@ title: "TECHNICIEN D'ASSISTANCE INFORMATIQUE"
 order: 4
 in_menu: true
 ---
-![Texte décrivant l'image]({% link images/photo.jpg %})
+<img src="photo.jpg" alt="Photo de moi" width="150">
         <h1>HAMA Fouad</h1>
         <p>TECHNICIEN D'ASSISTANCE INFORMATIQUE</p>
         <h2>Compétences</h2>
