@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 4
 in_menu: true
 ---
 Pour nous contacter : fouadhama3@gmail.com 

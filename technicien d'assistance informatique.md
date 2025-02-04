@@ -1,6 +1,6 @@
 ---
 title: "TECHNICIEN D'ASSISTANCE INFORMATIQUE"
-order: 4
+order: 3
 in_menu: true
 ---
 <img src="photo.jpg" alt="Photo de moi" width="150">
