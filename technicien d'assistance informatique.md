@@ -29,5 +29,4 @@ contre les logiciels malveillants</p>
                 Montage et maintenance matériel, système et logiciel
                 Windows server (Active directory, DNS, DHCP, gestion de ressources partageés, GPO)</li>
                 <li>Aide électricien auto
-                    Garage auto Algérie De 2008 à 2010</li>
-<p>Contactez-moi : <a href="CV_2025-01-28_Fouad_HAMA-4.pdf ">fouadhama3@gmail.com</a></p> 
+                    Garage auto Algérie De 2008 à 2010</li> 
