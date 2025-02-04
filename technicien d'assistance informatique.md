@@ -19,7 +19,7 @@ contre les logiciels malveillants</p>
 <p>Utilisation d'outils internet courants (workspace,firefox...), bureautique (pack office,
                         openoffice...)</p>
 <h2>Formation</h2>
- <h3>T.A.I TECHNICIEN D'ASSISTANCE INFORMATIQUE ( Titre professionnel RNCP)</h3>
+ <h3>T.A.I TECHNICIEN D'ASSISTANCE INFORMATIQUE (Titre professionnel RNCP)</h3>
 <p>CCI NORD ISÈRE VILLEFONTAINE De décembre 2024 à septembre 2025</p>
  <h2>Expérience Professionnelle</h2>
             <li>Cariste caces 5 logistique</li>
