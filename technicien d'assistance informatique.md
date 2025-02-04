@@ -15,8 +15,7 @@ contre les logiciels malveillants</p>
 <h3>- SAV</h3>
 <p>Maintenance matériel en boutique , assistance téléphonique , ticketting</p> 
 <h3> - Logiciels</h3>
-<p>Utilisation d'outils internet courants (workspace,firefox...), bureautique (pack office,
-                        openoffice...)</p>
+<p>Utilisation d'outils internet courants (workspace,firefox...), bureautique (pack office, openoffice...)</p>
 <h2>Formation</h2>
  <h3>T.A.I TECHNICIEN D'ASSISTANCE INFORMATIQUE (Titre professionnel RNCP)</h3>
 <p>CCI NORD ISÈRE VILLEFONTAINE De décembre 2024 à septembre 2025</p>
