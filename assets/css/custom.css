@@ -1,4 +1,3 @@
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -18,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: #07357d;
+    color: #25880f;
 }
 
 section {
@@ -43,3 +42,4 @@ footer {
     background-color: #333;
     color: white;
 }
+
