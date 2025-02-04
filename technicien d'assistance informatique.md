@@ -8,7 +8,7 @@ in_menu: true
 <h2>Compétences</h2>
 <h3>Montage et maintenance matériel, système, logiciel et réseau</h3>
  <p>OS, Windows, Mac, Linux</p>
-<h3>- Bonnes connaissances windows server</h3> <p>Active directory, DNS, DHCP, création d'utilisateurs et de groupe, gestion des ressourcespartagées, GPO...<p>  
+<h3>- Bonnes connaissances windows server</h3> <p>Active directory, DNS, DHCP, création d'utilisateurs et de groupe, gestion des ressources partagées, GPO...<p>  
 <h3>- Sécurité</h3>
 <p>Connaissance des bonnes pratiques, gestion des antivirus, pare-feu sauvegardes et protection
 contre les logiciels malveillants</p>
