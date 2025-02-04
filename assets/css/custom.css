@@ -1,3 +1,47 @@
 :root {
     --couleur-primaire : #2a6442;
 }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #b8c4d0;
+}
+
+header {
+    background-color: #1f25cee1;
+    color: rgb(175, 190, 202);
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    color: #25880f;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(181, 204, 212);
+    border-radius: 8px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
