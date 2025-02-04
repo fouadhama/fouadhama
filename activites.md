@@ -3,16 +3,12 @@ title: "Activités"
 order: 1
 in_menu: true
 ---
-Montage et maintenance matériel, système, logiciel et réseau
-OS, Windows, Mac, Linux
-- Bonnes connaissances windows server
-Active directory, DNS, DHCP, création d'utilisateurs et de groupe, gestion des ressources
-partagées, GPO...
-- Sécurité
-Connaissance des bonnes pratiques, gestion des antivirus, pare-feu sauvegardes et protection
-contre les logiciels malveillants
-- SAV
-Maintenance matériel en boutique , assistance téléphonique , ticketting
-- Logiciels
-Utilisation d'outils internet courants (workspace,firefox...), bureautique (pack office,
-openoffice...) 
+- Diagnostiquer un dysfonctionnement informatique matériel ou logiciel.
+- Accompagner l’utilisateur ou intervenir directement pour résoudre le dysfonctionnement.
+- Prévenir les pannes – les anticiper.
+- Implanter et mettre à jour les logiciels.
+- Installer les équipements informatiques.
+- Gérer les stocks de consommables techniques et pièces détachées.
+- Assurer l’entretien du matériel.
+- Assurer la satisfaction des clients en respectant la charte qualité service.
+- Mener une veille technologique constante 
