@@ -1,3 +1,7 @@
+:root {
+    --couleur-primaire: #2f3540;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
