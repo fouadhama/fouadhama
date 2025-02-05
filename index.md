@@ -7,4 +7,4 @@ in_menu: true
 <p>pour plus info : <a href="CV_2025-01-28_Fouad_HAMA-4.pdf ">voir mon cv</a></p> 
 
 
- <img src="images/Sans477 titre.jpg" width="120%"> 
+ <img src="images/Sans477 titre.jpg" width="130%"> 
