@@ -4,7 +4,6 @@ order: 3
 in_menu: true
 ---
 <h1>HAMA Fouad</h1>
-<p>TECHNICIEN D'ASSISTANCE INFORMATIQUE</p>
 <h2>Compétences</h2>
 <h3>Montage et maintenance matériel, système, logiciel et réseau</h3>
  <p>OS, Windows, Mac, Linux</p>
